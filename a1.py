@@ -1,3 +1,3 @@
 a = list(range(10))
 print a
-print a.index(11)
+#print a.index(11)
